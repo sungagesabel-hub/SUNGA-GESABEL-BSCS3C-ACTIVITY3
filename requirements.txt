@@ -1,5 +1,6 @@
 streamlit
-streamlit-webrtc
+streamlit-webrtc==0.47.0
 ultralytics
 opencv-python
-avSS
+av
+tornado==6.4.1
