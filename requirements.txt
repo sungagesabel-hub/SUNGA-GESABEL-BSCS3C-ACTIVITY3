@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc==0.47.0
+ultralytics==8.2.0
+opencv-python-headless==4.8.1.78
+av
+numpy
+tornado==6.4.1
